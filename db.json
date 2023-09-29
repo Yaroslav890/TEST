@@ -1,0 +1,196 @@
+{
+  "users": [
+    {
+      "name": "Маша",
+      "avatar": "/static/media/user.b08fd7dbbe98eb038f0d.png",
+      "id": 1
+    },
+    {
+      "name": "Олег",
+      "avatar": "/static/media/user.b08fd7dbbe98eb038f0d.png",
+      "id": 2
+    },
+    {
+      "name": "Игорь",
+      "avatar": "/static/media/user.b08fd7dbbe98eb038f0d.png",
+      "id": 3
+    }
+  ],
+  "devices": [
+    {
+      "product": "Мышка",
+      "price": "34",
+      "count": "66",
+      "userId": 1,
+      "id": 4
+    },
+    {
+      "product": "Мышка",
+      "price": "34",
+      "count": "66",
+      "userId": 2,
+      "id": 5
+    },
+    {
+      "product": "Мышка",
+      "price": "34",
+      "count": "66",
+      "userId": 3,
+      "id": 6
+    },
+    {
+      "product": "Мышка",
+      "price": "34",
+      "count": "66",
+      "userId": 3,
+      "id": 7
+    },
+    {
+      "product": "Мышка",
+      "price": "34",
+      "count": "66",
+      "userId": 3,
+      "id": 8
+    },
+    {
+      "product": "Мышка",
+      "price": "34",
+      "count": "66",
+      "userId": 3,
+      "id": 9
+    },
+    {
+      "product": "Мышка",
+      "price": "34",
+      "count": "66",
+      "userId": 3,
+      "id": 10
+    },
+    {
+      "product": "Мышка",
+      "price": "34",
+      "count": "66",
+      "userId": 3,
+      "id": 11
+    },
+    {
+      "product": "Мышка",
+      "price": "34",
+      "count": "66",
+      "userId": 3,
+      "id": 12
+    },
+    {
+      "product": "Мышка",
+      "price": "34",
+      "count": "66",
+      "userId": 3,
+      "id": 13
+    },
+    {
+      "product": "Мышка",
+      "price": "34",
+      "count": "66",
+      "userId": 3,
+      "id": 14
+    },
+    {
+      "product": "Мышка",
+      "price": "34",
+      "count": "66",
+      "userId": 3,
+      "id": 15
+    },
+    {
+      "product": "Мышка",
+      "price": "34",
+      "count": "66",
+      "userId": 3,
+      "id": 16
+    },
+    {
+      "product": "Мышка",
+      "price": "34",
+      "count": "66",
+      "userId": 3,
+      "id": 17
+    },
+    {
+      "product": "Мышка",
+      "price": "34",
+      "count": "66",
+      "userId": 3,
+      "id": 18
+    },
+    {
+      "product": "Мышка",
+      "price": "34",
+      "count": "66",
+      "userId": 3,
+      "id": 19
+    },
+    {
+      "product": "Мышка",
+      "price": "34",
+      "count": "66",
+      "userId": 3,
+      "id": 20
+    },
+    {
+      "product": "Мышка",
+      "price": "34",
+      "count": "66",
+      "userId": 3,
+      "id": 21
+    },
+    {
+      "product": "Мышка",
+      "price": "34",
+      "count": "66",
+      "userId": 3,
+      "id": 22
+    },
+    {
+      "product": "Мышка",
+      "price": "34",
+      "count": "66",
+      "userId": 3,
+      "id": 23
+    },
+    {
+      "product": "Gjgf",
+      "price": "34",
+      "count": "66",
+      "userId": 2,
+      "id": 24
+    },
+    {
+      "product": "Gjgf",
+      "price": "34",
+      "count": "66",
+      "userId": 2,
+      "id": 25
+    },
+    {
+      "product": "Gjgf",
+      "price": "34",
+      "count": "66",
+      "userId": 2,
+      "id": 26
+    },
+    {
+      "product": "Gjgf",
+      "price": "34",
+      "count": "66",
+      "userId": 2,
+      "id": 27
+    },
+    {
+      "product": "Gjgf",
+      "price": "34",
+      "count": "66",
+      "userId": 2,
+      "id": 28
+    }
+  ]
+}
